@@ -1,11 +1,27 @@
 # Mobile-Architect-and-Programming
 ### Briefly summarize the requirements and goals of the app you developed. 
 #### What user needs was this app designed to address?
-The application I have chosen to work on is Option 2, an Event Tracking App. The overarching purpose of the application is to create an easy-to-use app with an interactive UI where new or existing users may employ CRUD functionality to create, read, update, and delete events to and from an event SQLite database. To garner a customized user experience, login functionailty is provided through the use of a user SQLite database to store credentials for easy retrieval at login and in case of forgotton passwords. Users may also enable a feature to receive SMS notifications for upcoming events.
+The application I developed is an Event Tracking App. The overarching purpose of the application is to create an easy-to-use app with an interactive UI where new or existing users may employ CRUD functionality to create, read, update, and delete events to and from an event SQLite database. To garner a customized user experience, login functionailty is provided through the use of a user SQLite database to store credentials for easy retrieval at login and in case of forgotton passwords. Users may also enable a feature to receive SMS notifications for upcoming events.
 ### What screens and features were necessary to support user needs and produce a user-centered UI for the app? 
 *LOGIN - REGISTRATION - PASSWORD RETRIEVAL*
+
+![Login](https://user-images.githubusercontent.com/88759442/185329824-fef776a0-4b7b-4fab-9e63-40b9be7ac785.jpg)
+![Register](https://user-images.githubusercontent.com/88759442/185330011-43a9a482-9ada-4a33-b058-c984b1399d4c.jpg)
+![password](https://user-images.githubusercontent.com/88759442/185330044-548e6a08-88a8-4278-ba39-dd8068552193.jpg)
+
 *EVENT DASHBOARD - NEW EVENT - MODIFY EVENT*
-*DELETE ALL ALERT - SMS NOTIFICATION ALERT*
+
+![Dashboard](https://user-images.githubusercontent.com/88759442/185330219-e3227810-9616-4080-9cae-9b642adc2af7.jpg)
+![ADD](https://user-images.githubusercontent.com/88759442/185330269-2e8b4d90-f352-4efd-bbcb-1767cf905603.jpg)
+![modify](https://user-images.githubusercontent.com/88759442/185330675-a8048697-55cb-4354-8786-5ad0a96c9ae0.jpg)
+
+*DELETE ALL ALERT - SMS NOTIFICATION ALERT - MENU*
+
+![DeleteALL](https://user-images.githubusercontent.com/88759442/185330815-c173917b-4d82-4f53-81f0-c3f1d5431dfb.jpg)
+![SMS](https://user-images.githubusercontent.com/88759442/185330843-3f6e19d3-2fa0-4d84-9429-2ccc6fcc9c6c.jpg)
+![MENU](https://user-images.githubusercontent.com/88759442/185330885-615bc75c-e628-4fd2-a4d7-b0013b8a84dc.jpg)
+
+
 #### How did your UI designs keep users in mind? 
 Early on throughout the design process, extensive research was conducted to identify the types of users that would be attracted to a simple interface with likewise simple functionality. I kept my users in mind with the simply designed dashboard, the easy-to-navigate interface that allows them to employ basic functionality quickly (add, delete, update, and set reminders), and the fact it keeps user data confined to just the app. They will appreciate the  minimalistic interface that does not distract from the app’s core features.  
 #### Why were your designs successful?
